@@ -1,6 +1,6 @@
 # 🏰 Triple Adventure — lab01
 
-**Live URL:** https://Enrikkk.github.io/Adv_Web_Apps_Project1_HTML-CSS-Game.git/  
+**Live URL:** [https://Enrikkk.github.io/Adv_Web_Apps_Project1_HTML-CSS-Game.git/](https://enrikkk.github.io/Adv_Web_Apps_Project1_HTML-CSS-Game/) 
 **External Repo:** https://github.com/Enrikkk/Adv_Web_Apps_Project1_HTML-CSS-Game.git
 
 ---
