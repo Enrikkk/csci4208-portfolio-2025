@@ -4,8 +4,7 @@
 
 - **Name:** Enrique Hernández Noguera
 - **Project Board (Project v2):** <paste your board URL here>
-- **Live Portfolio (GitHub Pages):** [<https://Enrikkk.github.io/csci4208-portfolio-2025.git/>](https://enrikkk.github.io/csci4208-portfolio-2025/)
-
+- **Live Portfolio (GitHub Pages):** https://enrikkk.github.io/csci4208-portfolio-2025/
 ---
 
 ## 🚀 Quick Start
@@ -95,6 +94,7 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 
 
 
