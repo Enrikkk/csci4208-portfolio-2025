@@ -2,9 +2,9 @@
 
 > Personal progress page for CSCI4208. Keep this file updated as you complete labs, projects, and capstone milestones.
 
-- **Name:** <Your Name>
+- **Name:** Enrique Hernández Noguera
 - **Project Board (Project v2):** <paste your board URL here>
-- **Live Portfolio (GitHub Pages):** <https://Enrikkk.github.io/csci4208-portfolio-2025.git/>
+- **Live Portfolio (GitHub Pages):** [<https://Enrikkk.github.io/csci4208-portfolio-2025.git/>](https://enrikkk.github.io/csci4208-portfolio-2025/)
 
 ---
 
@@ -95,5 +95,6 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 
 
